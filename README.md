@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/pivottable)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/pivottable.svg)](https://vaadin.com/directory/component/pivottable)
+
 # PivotTable Add-on for Vaadin 7
 
 PivotTable is Vaadin wrapper for Javascript Pivot Table (https://github.com/nicolaskruchten/pivottable). 
